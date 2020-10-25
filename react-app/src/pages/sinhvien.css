@@ -1,0 +1,48 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background: linear-gradient( 203deg, rgba(131, 58, 180, 0.9) 0%, rgb(236 155 155 / 90%) 50%, rgb(255 240 219 / 90%) 100% );
+}
+.form_ThemSV{
+    width: 1044px;
+    margin-left: 108px;
+    padding-top: 0px;
+    padding: 19px;
+    border: 1px solid;
+}
+input{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 224px;
+}
+span{
+    margin-top: 20px;
+}
+.ngaysinh{
+    margin-left: 40px;
+}
+form{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    width: 367px;
+    background: mediumspringgreen;
+}
+.btnEdit{
+    width: 102px;
+    background: darkorange;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.btnDelete{
+    background: red;
+    width: 102px;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
